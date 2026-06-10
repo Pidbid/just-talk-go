@@ -18,3 +18,7 @@ config.toml
 # Editor and OS noise
 .DS_Store
 Thumbs.db
+
+# AI agents configs
+.helloagents/
+AGENTS.md
